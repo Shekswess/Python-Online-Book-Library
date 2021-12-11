@@ -1,4 +1,4 @@
-# PYTHON ONLINE BOOK LIBRARY
+# Python-Online-Book-Library
 
 -This is a project that is made for my Network Programming course but it's also a nice portfolio project
 
