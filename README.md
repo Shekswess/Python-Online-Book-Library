@@ -19,9 +19,12 @@ with database, working with SMTP, etc.
 -Before working with the project you need to modify the mail.py code, where you will enter your smtp server account on line 6 and 7. Also you need to change the url for requests in the client.py code if you host your API on the Internet. You will also need to create the database by running the database.py code.
 
 -Helpful documentation:
-    ### https://docs.python-requests.org/en/latest/ - Requests
-    ### https://docs.python.org/3/library/sqlite3.html - sqlite3
-    ### https://fastapi.tiangolo.com/ - FastAPI
+
+### https://docs.python-requests.org/en/latest/ - Requests
+
+### https://docs.python.org/3/library/sqlite3.html - sqlite3
+
+### https://fastapi.tiangolo.com/ - FastAPI
 
 
 # Working with the project
