@@ -20,7 +20,9 @@ with database, working with SMTP, etc.
 
 -Helpful documentation:
     https://docs.python-requests.org/en/latest/ - Requests
+    
     https://docs.python.org/3/library/sqlite3.html - sqlite3
+    
     https://fastapi.tiangolo.com/ - FastAPI
 
 
